@@ -1,0 +1,23 @@
+{
+  "name": "workshop-4-1",
+  "version": "0.2.0",
+  "description": "node.js project eam workshop 4",
+  "main": "app.js",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "backend",
+    "software",
+    "javascript"
+  ],
+  "author": "Santiago Rodriguez",
+  "license": "ISC"
+}
